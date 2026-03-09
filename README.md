@@ -3,7 +3,7 @@
 ## About Me
 I am a robotics researcher focused on the mathematical and algorithmic foundations of robot intelligence. I work across the full stack, from temporal logic motion planning, optimization, and control theory to hardware integration and deployment.
 
-## Featured Projects
+## Featured Repos
 
 ### [Logic Network Flow (LNF)](https://github.com/LogicNetworkFlow/LNF)
 An optimization-based task and motion planning framework that integrates temporal logic 
